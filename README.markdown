@@ -205,3 +205,4 @@ You can also ask for help from the *atoum* development staff on the IRC channel 
 
 This error comes from the fact the *atoum* PHAR archive is included in at least one place within your code, using `include` or `require`.  
 To fix this problem, you just need to include the archive by using only `include_once` or `require_once`, in order to ensure it is not included several times.
+ ###"atoum rocks"
